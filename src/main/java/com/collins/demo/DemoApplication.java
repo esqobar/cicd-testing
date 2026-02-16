@@ -11,7 +11,7 @@ public class DemoApplication {
 
     @GetMapping
     public String welcome() {
-        return "Welcome to testing of ci/cd";
+        return "we working testing of ci/cd";
     }
 
     public static void main(String[] args) {
